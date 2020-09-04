@@ -28,3 +28,7 @@ python ./forced_topic.py --output_dir=output_ft --model_type=gpt2 --model_name_o
 
 Run forced-topic conditional language model:
 python ./run_generation_forced_topic.py --model_type=gpt2 --model_name_or_path=./output_ft/ --length 1600 --seed 100
+
+
+For more information on this task please refer to this paper:
+https://pdfs.semanticscholar.org/a946/7f3581fdf4d2bea9673d198177a76d133071.pdf
