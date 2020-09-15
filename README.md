@@ -31,4 +31,4 @@ python ./run_generation_forced_topic.py --model_type=gpt2 --model_name_or_path=.
 
 
 For more information on this task please refer to this paper:
-https://pdfs.semanticscholar.org/a946/7f3581fdf4d2bea9673d198177a76d133071.pdf
+https://arxiv.org/abs/2009.06358
